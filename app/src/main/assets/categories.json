@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Business",
+    "key": "business"
+  },
+  {
+    "name": "Entertainment",
+    "key": "entertainment"
+  },
+  {
+    "name": "General",
+    "key": "general"
+  },
+  {
+    "name": "Health",
+    "key": "health"
+  },
+  {
+    "name": "Science",
+    "key": "science"
+  },
+  {
+    "name": "Sports",
+    "key": "sports"
+  },
+  {
+    "name": "Technology",
+    "key": "technology"
+  }
+]

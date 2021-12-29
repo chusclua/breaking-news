@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Breaking news</string>
+    <string name="filter_news_title">Filter news</string>
+
+    <string name="country_list_dialog_title">Choose a country</string>
+    <string name="category_list_dialog_title">Choose a category</string>
+
+    <string name="submit_button">Submit</string>
+
+    <string name="detail_transition" translatable="false">go_to_detail_transition</string>
+</resources>
